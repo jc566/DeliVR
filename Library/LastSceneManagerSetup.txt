@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/DeliVRy.unity
+  isLoaded: 1
+  isActive: 1
